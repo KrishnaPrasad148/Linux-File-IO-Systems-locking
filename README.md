@@ -105,14 +105,14 @@ int main (int argc, char* argv[])
 ## OUTPUT
 ### 1.
 
-![expt07 - 1](https://github.com/KrishnaPrasad148/Linux-File-IO-Systems-locking/assets/147332763/3c6574cb-23ce-46b6-a710-874132bc88ae)
+![alt text](<expt07 - 1.png>)
 
 
 ### 2.
 
-![expt07 -2](https://github.com/KrishnaPrasad148/Linux-File-IO-Systems-locking/assets/147332763/79af7aab-0d1a-4db7-b790-dd82c12ff050)
+![alt text](<expt07 -2.png>)
 
-![expt07 -2 - 2](https://github.com/KrishnaPrasad148/Linux-File-IO-Systems-locking/assets/147332763/0e755910-b0f1-45d0-811f-e087c91dbbe2)
+![alt text](<expt07 -2 - 2.png>)
 
 
 
